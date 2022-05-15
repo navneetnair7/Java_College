@@ -12,5 +12,6 @@ class test{
         System.out.println("The product of the numbers are: " + (a * b));
         System.out.println("The quotient of the numbers are: " + (a / b));
         System.out.println("The remainder of the numbers are: " + (a % b));
+        System.out.println("The absolute value of the numbers are: " + (Math.abs(a)));
     }
 }

@@ -1,4 +1,4 @@
-class test{
+class lol{
     static int a;
     static float b;
     static double c;
